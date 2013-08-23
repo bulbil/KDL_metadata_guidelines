@@ -38,12 +38,12 @@
     </div>
 
     <!-- JavaScript plugins (requires jQuery) -->
-    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="js/jquery-1.10.2.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
 
     <!-- Optionally enable responsive features in IE8 -->
-    <script src="js/respond.js"></script>
+    <script src="js/respond.min.js"></script>
     <script src="js/main.js"></script>
     <script type="text/javascript">  $('#sidenav').scrollspy(); </script>
   </body>
